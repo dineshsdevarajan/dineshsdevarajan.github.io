@@ -4,7 +4,7 @@
 title: Dinesh Sundaravadivelu Devarajan
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Research. Data Science.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "dsundara55@gmail.com"
+  email: "d.sundaravadiveludevarajan@ttu.edu"
   facebook: deanattali
   github: dineshsdevarajan
   twitter: daattali
