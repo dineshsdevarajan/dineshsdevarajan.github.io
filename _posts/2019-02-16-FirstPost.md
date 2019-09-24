@@ -6,7 +6,7 @@ image: /img/hello_world.jpeg
 
 Excited to be writing my first post!
 
-I have created this personal webpage to share about the various research problems that I have investigated by employing molecular simulations.
+I have created this personal webpage to share about the various research problems involving molecular simulations that I have investigated by during my doctorate studies.
 
 Being a machine learning (ML) enthusiast, I will also be sharing about the courses and projects that I work on during my journey towards learning ML.  
 
