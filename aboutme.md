@@ -9,7 +9,7 @@ I am Dinesh Sundaravadivelu Devarajan, a Ph.D. student in the Department of Chem
 ### Education
 
 * Ph.D. in [Chemical Engineering](https://www.depts.ttu.edu/che/) (Expected: August 2020)    
-  [Texas Tech University](https://www.ttu.edu/), 
+  [Texas Tech University](https://www.ttu.edu/)   
   [Rajesh Khare Research Group](http://www.depts.ttu.edu/che/groups/kharegroup/)
 
 * M.S. in [Chemical Engineering](https://www.depts.ttu.edu/che/) (August 2019)  
