@@ -4,7 +4,7 @@ title: First post!
 image: /img/hello_world.jpeg
 ---
 
-Excited to be posting my first post! 
+Excited to be writing my first post! 
 
 I have created this personal webpage to document about the various research projects in the field of computational science.    
 
