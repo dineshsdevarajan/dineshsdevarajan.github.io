@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A short bio
+subtitle: The essentials
 ---
 
 I am Dinesh Sundaravadivelu Devarajan, a Ph.D. student in the Chemical Engineering department at Texas Tech University.  I employ molecular simulation techniques to investigate the molecular behavior of different complex fluid materials that can impact the production of varied engineering products ranging from cosmetics and paints to the development of drug-delivery vehicles. Please find a detailed discussion of my research projects [here](/myresearch.md). 
