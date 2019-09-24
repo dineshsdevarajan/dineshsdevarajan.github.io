@@ -4,7 +4,7 @@ title: About me
 subtitle: A short bio
 ---
 
-I am Dinesh Sundaravadivelu Devarajan, a Ph.D. student in the Department of Chemical Engineering at Texas Tech University.  I utilize molecular simulation tools to investigate the molecular behavior of various complex materials such as colloidal suspensions, polymer melts, and cross-linked epoxy systems.
+I am Dinesh Sundaravadivelu Devarajan, a Ph.D. student in the Department of Chemical Engineering at Texas Tech University.  I employ molecular simulation techniques to investigate the molecular behavior of various complex materials such as colloidal suspensions, polymer melts, and cross-linked epoxy systems.
 
 ### Education
 
