@@ -5,7 +5,7 @@ subtitle: Publications and presentations
 ---
 
 ### Publications    
-1. D. Sundaravadivelu Devarajan, P. Nourian, G.B. McKenna, R. Khare, Molecular Simulations of Nanocolloid Rheology: Viscosity, Viscoelasticity, and Time-Concentration Superposition, submitted to Journal of Rheology (2019).  
+1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, R. Khare, Molecular Simulations of Nanocolloid Rheology: Viscosity, Viscoelasticity, and Time-Concentration Superposition, submitted to Journal of Rheology (2019).  
 
 2. R. Khare, **D. Sundaravadivelu Devarajan**, "Molecular Simulations of Nanocolloids", Current Opinion in Chemical Engineering, 16, 86-91 (2017).  
 
@@ -13,6 +13,6 @@ subtitle: Publications and presentations
 
 ### Presentations
 
-#### Oral presentations
+##### Oral presentations
 
-#### Poster presentations
+##### Poster presentations
