@@ -17,7 +17,7 @@ subtitle: Publications and presentations
 
 2. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Linear Viscoelasticity of Colloidal Suspensions from Probe Rheology Simulations: Application to Nanoscopic Systems", 90th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2018).  
 
-3. **D. Sundaravadivelu Devarajan**, P.Nourian, R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", ChEGSA (Department) Student Seminar Series, Lubbock, TX (April 2018).  
+3. **D. Sundaravadivelu Devarajan**, P.Nourian, R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", ChEGSA (Department) Student Seminar Series, Texas Tech University, Lubbock, TX (April 2018).  
 
 4. P. Nourian, **D. Sundaravadivelu Devarajan**, R. Islam, R. Khare, "Probe Rheology Simulation Technique for Determination of Viscoelasticity of Complex Fluids", AIChE Annual Meeting, Minneapolis, Minnesota (October 2017).  
 
