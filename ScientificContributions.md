@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Scientific Contributions
-subtitle: Doctoral research
+subtitle: Publications and presentations
 ---
 
 ### Publications
 
-### Oral Presentations
+### Presentations
 
-### Poster Presentations
+#### Oral presentations
+
+#### Poster presentations
