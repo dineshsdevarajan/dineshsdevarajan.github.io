@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientific Contributions
+title: Contributions
 subtitle: Publications and presentations
 ---
 
