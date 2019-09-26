@@ -11,8 +11,6 @@ subtitle: Publications and presentations
 
 3. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (2016).  
 
-### Presentations
-
-##### Oral presentations
-
-##### Poster presentations
+### Presentations  
+**Oral presentations**  
+**Poster presentations**
