@@ -20,13 +20,13 @@ description: Research. Data Science.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "AboutMe"
   Projects:
     - Machine Learning Courses:
     - Machine Learning Blog:
   Research:
-    - My Research:
-    - Scientific Contributions:
+    - My Research: "MyResearch"
+    - Scientific Contributions: "ScientificContributions"
     - Group webpage: "http://www.depts.ttu.edu/che/groups/kharegroup/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
