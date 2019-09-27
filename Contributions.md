@@ -12,7 +12,7 @@ subtitle: Publications and presentations
 3. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (2016).    
 
 ### Presentations  
-**Oral presentations**    
+**Oral Presentations**    
 1. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", AIChE Annual Meeting, Pittsburgh, Pennsylvania (October 2018).  
 
 2. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Linear Viscoelasticity of Colloidal Suspensions from Probe Rheology Simulations: Application to Nanoscopic Systems", 90<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2018).  
@@ -27,7 +27,7 @@ subtitle: Publications and presentations
 
 7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz; T.C. Achee, R. Khare, M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254<sup>th</sup> ACS National Meeting & Exposition, Washington, D.C. (August 2017).     
 
-**Poster presentations**
+**Poster Presentations**
 1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8<sup>th</sup> Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).  
 
 2. **D. Sundaravadivelu Devarajan**, P. Nourian, R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, ChEGSA (Department) Student Seminar Series, Texas Tech University, Lubbock, Texas (May 2018).  
