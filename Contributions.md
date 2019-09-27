@@ -23,9 +23,9 @@ subtitle: Publications and presentations
 
 5. **D. Sundaravadivelu Devarajan**, P. Nourian, R. Khare, "Probe Rheology Simulations for Determining Linear Viscoelasticity of Colloidal Suspensions", 89th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
 
-6. P. Nourian, R. Islam, **D. Sundaravadivelu Devarajan**; Khare, R.; "Probe Rheology Simulation Technique: Polymer Melts vs. Polymer Solutions", 89th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
+6. P. Nourian, R. Islam, **D. Sundaravadivelu Devarajan**; Khare, R.; "Probe Rheology Simulation Technique: Polymer Melts vs. Polymer Solutions", 89<sup>th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
 
-7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz; T.C. Achee, R. Khare, M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", ACS Meeting, Washington, D.C. (August 2017).     
+7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz; T.C. Achee, R. Khare, M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254th ACS Meeting, Washington, D.C. (August 2017).     
 
 **Poster presentations**
 1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8th Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
