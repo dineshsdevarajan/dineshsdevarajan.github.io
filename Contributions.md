@@ -15,17 +15,18 @@ subtitle: Publications and presentations
 **Oral presentations**    
 1. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", AIChE Annual Meeting, Pittsburgh, Pennsylvania (October 2018).  
 
-2. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Linear Viscoelasticity of Colloidal Suspensions from Probe Rheology Simulations: Application to Nanoscopic Systems", 90th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2018).  
+2. **D. Sundaravadivelu Devarajan**, G.B. McKenna, R. Khare, "Linear Viscoelasticity of Colloidal Suspensions from Probe Rheology Simulations: Application to Nanoscopic Systems", 90<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2018).  
 
 3. **D. Sundaravadivelu Devarajan**, P.Nourian, R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", ChEGSA (Department) Student Seminar Series, Texas Tech University, Lubbock, Texas (April 2018).  
 
 4. P. Nourian, **D. Sundaravadivelu Devarajan**, R. Islam, R. Khare, "Probe Rheology Simulation Technique for Determination of Viscoelasticity of Complex Fluids", AIChE Annual Meeting, Minneapolis, Minnesota (October 2017).  
 
-5. **D. Sundaravadivelu Devarajan**, P. Nourian, R. Khare, "Probe Rheology Simulations for Determining Linear Viscoelasticity of Colloidal Suspensions", 89th Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
+5. **D. Sundaravadivelu Devarajan**, P. Nourian, R. Khare, "Probe Rheology Simulations for Determining Linear Viscoelasticity of Colloidal Suspensions", 89<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
 
 6. P. Nourian, R. Islam, **D. Sundaravadivelu Devarajan**; Khare, R.; "Probe Rheology Simulation Technique: Polymer Melts vs. Polymer Solutions", 89<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
 
-7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz; T.C. Achee, R. Khare, M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254th ACS Meeting, Washington, D.C. (August 2017).     
+7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz; T.C. Achee, R. Khare, M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254<sup>th</sup> ACS National Meeting & Exposition, Washington, D.C. (August 2017).     
 
 **Poster presentations**
-1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8th Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
+1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8<sup>th</sup> Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
+2. **D. Sundaravadivelu Devarajan**, P. Nourian, R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, ChEGSA (Department) Student Seminar Series, Texas Tech University, Lubbock, Texas (May 2018).
