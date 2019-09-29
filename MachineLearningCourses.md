@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Machine Learning
-subtitle: Certified courses
+subtitle: Certified online courses
 ---
