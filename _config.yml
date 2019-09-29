@@ -22,7 +22,7 @@ description: Chemical Engineering Research . Data Science
 navbar-links:
   About Me: "AboutMe"
   Projects:
-    - Machine Learning Courses:
+    - Machine Learning Courses: "MachineLearningCourses.md"
     - Machine Learning Blog:
   Research:
     - My Research: "MyResearch"
