@@ -27,7 +27,7 @@ subtitle: Publications & Presentations
 
 4. **D. Sundaravadivelu Devarajan**, G.B. McKenna, and R. Khare, "Linear Viscoelasticity of Colloidal Suspensions from Probe Rheology Simulations: Application to Nanoscopic Systems", 90<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2018).  
 
-5. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions: Effect of Probe Size", ChEGSA (Department) Student Seminar Series, Texas Tech University, Lubbock, Texas (April 2018).  
+5. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, "Oscillatory Active Nanorheology Simulations of Colloidal Suspensions", ChEGSA Student Seminar Series, Texas Tech University, Lubbock, Texas (April 2018).  
 
 6. P. Nourian, **D. Sundaravadivelu Devarajan**, R. Islam, and R. Khare, "Probe Rheology Simulation Technique for Determination of Viscoelasticity of Complex Fluids", AIChE Annual Meeting, Minneapolis, Minnesota (October 2017).  
 
@@ -36,8 +36,6 @@ subtitle: Publications & Presentations
 8. P. Nourian, R. Islam, **D. Sundaravadivelu Devarajan**, and R. Khare, "Probe Rheology Simulation Technique: Polymer Melts vs. Polymer Solutions", 89<sup>th</sup> Annual Meeting of The Society of Rheology, Denver, Colorado (October 2017).  
 
 9. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254<sup>th</sup> ACS National Meeting & Exposition, Washington, D.C. (August 2017).     
-
-10. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, ChEGSA Student Seminar Series, Texas Tech University, Lubbock, Texas (May 2018).  
 
 
 **Poster Presentations**
