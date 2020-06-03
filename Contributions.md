@@ -37,7 +37,7 @@ subtitle: Publications & Presentations
 
 9. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254<sup>th</sup> ACS National Meeting & Exposition, Washington, D.C. (August 2017).     
 
-10. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, ChEGSA (Chemical Engineering Graduate Student Association) Student Seminar Series, Texas Tech University, Lubbock, Texas (May 2018).  
+10. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, ChEGSA Student Seminar Series, Texas Tech University, Lubbock, Texas (May 2018).  
 
 
 **Poster Presentations**
