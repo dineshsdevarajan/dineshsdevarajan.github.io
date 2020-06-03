@@ -49,6 +49,6 @@ subtitle: Publications & Presentations
 4. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2018).  
 
 
-**Three-Minute Presenatation**
+**Three-Minute Presentation**
 
 1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
