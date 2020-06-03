@@ -5,6 +5,7 @@ subtitle: Publications & Presentations
 ---
 
 ### Publications    
+
 5. **D. Sundaravadivelu Devarajan** and R. Khare, "Linear Viscoelasticity of Nanocolloidal Suspensions from Probe Rheology Molecular Simulations, in preparation (2020). 
 
 4. P. Nourian, J. Ethier, R. Islam, **D. Sundaravadivelu Devarajan**, O. Bazgir, R. Pal, T. Indei, J.D. Schieber, and R. Khare, "Determination of the Low Frequency Viscoelastic Modulus of Heavily Entangled Polymer Melts", in preparation (2020).
@@ -40,6 +41,7 @@ subtitle: Publications & Presentations
 
 
 **Poster Presentations**
+
 4. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Viscoelasticity and the Validity of Time-Concentration Superposition in Nanocolloidal Suspensions”, AIChE Annual Meeting, Orlando, Florida (November 2019).  
 
 3. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8<sup>th</sup> Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
