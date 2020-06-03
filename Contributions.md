@@ -17,6 +17,7 @@ subtitle: Publications & Presentations
 
 ### Presentations  
 **Oral Presentations** 
+
 10. **D. Sundaravadivelu Devarajan** and R. Khare, "Probe Rheology Molecular Simulations of Nanocolloidal Suspensions", AIChE Annual Meeting, Orlando, Florida (November 2019).  
 
 9. **D. Sundaravadivelu Devarajan** and R. Khare, "Deciphering Nanocolloid Suspension Rheology from Passive Probe Rheology Simulations", 91<sup>th</sup> Annual Meeting of The Society of Rheology, Raleigh, North Carolina (October 2019). 
