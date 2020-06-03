@@ -42,10 +42,10 @@ T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R.
 
 **Poster Presentations**
 
-**D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Viscoelasticity and the Validity of Time-Concentration Superposition in Nanocolloidal Suspensions”, AIChE Annual Meeting, Orlando, Florida (November 2019).  
+4. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Viscoelasticity and the Validity of Time-Concentration Superposition in Nanocolloidal Suspensions”, AIChE Annual Meeting, Orlando, Florida (November 2019).  
 
-**D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8<sup>th</sup> Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
+3. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Deciphering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, 8<sup>th</sup> Annual Texas Soft Matter Meeting, Lubbock, Texas (August 2019).
 
-**D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Deciohering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
+2. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Deciohering Nanocolloid Rheology: Viscoelasticity and Time-Concentration Superposition”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
 
-**D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2018).  
+1. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2018).  
