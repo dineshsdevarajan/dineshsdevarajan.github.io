@@ -30,7 +30,7 @@ navbar-links:
      - Ph.D.:
      - Machine Learning:  
   Contributions: "Contributions"
-  Blog:
+  Blog: "index.html"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
