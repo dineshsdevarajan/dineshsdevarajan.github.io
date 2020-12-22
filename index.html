@@ -6,7 +6,23 @@ bigimg: /img/ML.jpeg
 use-site-title: true
 ---
 
-<h1> I write about </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Typing Effect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+	    <p>I write about <span class="typed-text"></span><span class="cursor"></span></p>    
+    </div>
+	
+    <script src="style.js"></script>
+</body>
+</html>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
