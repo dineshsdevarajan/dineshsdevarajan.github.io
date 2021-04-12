@@ -22,6 +22,6 @@ Currently, I am working as a Lecturer in the Edward E. Whitacre Jr. College of E
 </p>
 
 <p class="about-text">
-<span class="fa fa-databasee about-icon"></span>
+<span class="fa fa-database about-icon"></span>
 During my Ph.D., my research was focused on the development of explicit solvent (particulate) models of nanocolloidal suspensions and to study of rheology of nanocolloidal suspensions using particulate model systems. Bulk rheology and probe rheology molecular simulation techniques were utilized to investigate the suspension rheology that has applications in the design of drug-delivery vehicles. Other topics of interest included the study of atomistically-detailed systems such as the exfoliation and the stabilization mechanism of boron nitride nanosheets (BNNS) in alcohol-water cosolvent mixtures, and the mechanical and the dynamical properties of highly cross-linked epoxy systems. Check out the details of the completed and the ongoing research projects [here](/myresearch.md)!
 </p>
