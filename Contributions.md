@@ -6,7 +6,7 @@ subtitle: Thesis, Publications & Presentations
 
 ### Ph.D. Thesis    
 
-1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology", Texas Tech University (August 2020).<br/><br/>
+1. **D. Sundaravadivelu Devarajan**, F. Khabaz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
 
 ### Publications (* indicates co-first authors)    
 
@@ -24,8 +24,8 @@ subtitle: Thesis, Publications & Presentations
 
 7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (October 2016).<br/><br/>    
 
-### Presentations  
-**Oral Presentations** 
+### Presentations    
+**Oral Presentations**    
 
 1. **D. Sundaravadivelu Devarajan** and R. Khare, "Linear Viscoelasticity of Nanocolloidal Suspensions from Probe Rheology Simulations", AIChE Annual Meeting, Virtual Meeting (November 2020).
 
@@ -47,7 +47,7 @@ subtitle: Thesis, Publications & Presentations
 
 10. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, "Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Processing", 254<sup>th</sup> ACS National Meeting & Exposition, Washington, D.C. (August 2017).     
 
-**Poster Presentations**
+**Poster Presentations**    
 
 1. **D. Sundaravadivelu Devarajan**, P. Nourian, G.B. McKenna, and R. Khare, “Viscoelasticity and the Validity of Time-Concentration Superposition in Nanocolloidal Suspensions”, AIChE Annual Meeting, Orlando, Florida (November 2019).  
 
@@ -57,6 +57,6 @@ subtitle: Thesis, Publications & Presentations
 
 4. **D. Sundaravadivelu Devarajan**, P. Nourian, and R. Khare, “Oscillatory Active Nanorheology Simulations of Colloidal Suspensions”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2018).  
 
-**Three-Minute Presentation**
+**Three-Minute Presentation**    
 
 1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
