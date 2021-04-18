@@ -61,5 +61,5 @@ subtitle: Thesis, Publications & Presentations
 
 ### Publications   
 
-**D. Sundaravadivelu Devarajan**, F. Khabazz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
+1. **D. Sundaravadivelu Devarajan**, F. Khabazz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
 
