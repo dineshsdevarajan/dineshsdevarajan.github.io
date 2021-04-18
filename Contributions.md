@@ -6,7 +6,7 @@ subtitle: Thesis, Publications & Presentations
 
 ### Thesis <br/>  
 
-1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).
+1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).<br/><br/>
 
 
 ### Publications   
