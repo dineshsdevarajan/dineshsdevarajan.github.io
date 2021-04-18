@@ -6,7 +6,7 @@ subtitle: Thesis, Publications & Presentations
 
 ### Ph.D. Thesis
 
-1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology", Texas Tech University (August 2020). <br/><br/><br/>
+1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology", Texas Tech University (August 2020).<br/><br/>
 
 ### Publications (* indicates co-first authors)    
 
@@ -22,7 +22,7 @@ subtitle: Thesis, Publications & Presentations
 
 6. R. Khare and **D. Sundaravadivelu Devarajan**, ["Molecular Simulations of Nanocolloids"](https://www.sciencedirect.com/science/article/pii/S2211339816300843), Current Opinion in Chemical Engineering, 16, 86-91 (May 2017).  
 
-7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (October 2016).    
+7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (October 2016).<br/><br/>    
 
 ### Presentations  
 **Oral Presentations** 
