@@ -59,8 +59,7 @@ subtitle: Thesis, Publications & Presentations
 1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
 
 
-### Publications
+### Publications   
 
-1. **D. Sundaravadivelu Devarajan**, F. Khabaz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
-
+1. **D. Sundaravadivelu Devarajan**, F. Khabazz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
 
