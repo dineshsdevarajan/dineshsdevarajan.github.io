@@ -13,7 +13,7 @@ Hi, my name is <strong>Dinesh Sundaravadivelu Devarajan</strong>, I am a chemica
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I completed my <a target="_blank" href="DineshSDevarajan_BTech_ChemE.pdf">Bachelor's in ChemE</a> from Anna University, ACT Campus in Guindy, Chennai, India. Following that, I finished my <a target="_blank" href="https://www.dineshsdevarajan.in/DineshSDevarajan_MS_ChemE.pdf/">Master's</a> and <a target="_blank" href="DineshSDevarajan_PhD_ChemE.pdf">Ph.D. in ChemE</a> under Prof. Rajesh Khare at Texas Tech University.
+I completed my <a href="DineshSDevarajan_BTech_ChemE.pdf" target="_blank">Bachelor's in ChemE</a> from Anna University, ACT Campus in Guindy, Chennai, India. Following that, I finished my <a target="_blank" href="https://www.dineshsdevarajan.in/DineshSDevarajan_MS_ChemE.pdf/">Master's</a> and <a target="_blank" href="DineshSDevarajan_PhD_ChemE.pdf">Ph.D. in ChemE</a> under Prof. Rajesh Khare at Texas Tech University.
 </p>
 
 <p class="about-text">
