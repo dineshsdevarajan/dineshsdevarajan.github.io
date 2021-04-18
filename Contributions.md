@@ -4,7 +4,6 @@ title: Contributions
 subtitle: Thesis, Publications & Presentations
 ---
 
-
 ### Ph.D. Thesis    
 
 1. **D. Sundaravadivelu Devarajan**, Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).<br/><br/>
@@ -28,7 +27,7 @@ subtitle: Thesis, Publications & Presentations
 ### Presentations    
 **Oral Presentations**    
 
-1. **D. Sundaravadivelu Devarajan** and R. Khare, "Linear Viscoelasticity of Nanocolloidal Suspensions from Probe Rheology Simulations", AIChE Annual Meeting, Virtual Meeting (November 2020).
+1. D. Sundaravadivelu Devarajan and **R. Khare**, "Linear Viscoelasticity of Nanocolloidal Suspensions from Probe Rheology Simulations", AIChE Annual Meeting, Virtual Meeting (November 2020).
 
 2. **D. Sundaravadivelu Devarajan** and R. Khare, "Probe Rheology Molecular Simulations of Nanocolloidal Suspensions", AIChE Annual Meeting, Orlando, Florida (November 2019).  
 
