@@ -4,7 +4,7 @@ title: Contributions
 subtitle: Thesis, Publications & Presentations
 ---
 
-### Thesis <br/><br/>    
+### Ph.D. Thesis <br/><br/>    
 
 1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).<br/><br/>
 
