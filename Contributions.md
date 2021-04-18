@@ -4,6 +4,11 @@ title: Contributions
 subtitle: Thesis, Publications & Presentations
 ---
 
+### Thesis <br/>  
+
+1. **D. Sundaravadivelu Devarajan**, "Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).
+
+
 ### Publications   
 
 1. **D. Sundaravadivelu Devarajan**, F. Khabaz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
@@ -57,9 +62,3 @@ subtitle: Thesis, Publications & Presentations
 **Three-Minute Presentation**    
 
 1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).<br/><br/>  
-
-
-### Publications   
-
-1. **D. Sundaravadivelu Devarajan**, F. Khabazz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
-
