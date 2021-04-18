@@ -20,6 +20,7 @@ subtitle: Thesis, Publications & Presentations
 
 7. T. Habib, **D. Sundaravadivelu Devarajan**, F. Khabaz, D. Parviz, T.C. Achee, R. Khare, and M.J. Green, ["Cosolvents as Liquid Surfactants for Boron Nitride Nanosheet (BNNS) Dispersions"](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b02611), Langmuir, 32, 11591-11599 (October 2016).<br/><br/>
 
+
 ### Presentations    
 **Oral Presentations**    
 
@@ -55,13 +56,9 @@ subtitle: Thesis, Publications & Presentations
 
 **Three-Minute Presentation**    
 
-1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).  
+1. **D. Sundaravadivelu Devarajan** and R. Khare, “Specific Solvent Interactions in Nanocolloidal Suspensions: Influence on Stability, Exfoliation, and Rheology”, Graduate Research Fair, Texas Tech University, Lubbock, Texas (May 2019).<br/><br/>  
 
-**Thesis**   
-
-1. **D. Sundaravadivelu Devarajan**, Molecular Investigations of Nanocolloid Rheology, Texas Tech University (August 2020).<br/><br/>
 
 ### Publications
 
-D. Sundaravadivelu Devarajan, F. Khabaz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
-
+1. D. Sundaravadivelu Devarajan, F. Khabaz, and R. Khare, "Mechanical and Dynamical Properties of Highly Cross-Linked Epoxy: Insights from Molecular Simulations", in preparation (2021).
