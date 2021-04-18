@@ -20,7 +20,7 @@ description: Chemical Engineering Research . Data Science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "AboutMe"
+  About Me: "about_me"
   Courses: 
      - Bachelor's: 
      - Master's & Ph.D.:
