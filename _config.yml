@@ -22,9 +22,9 @@ description: Chemical Engineering Research . Data Science
 navbar-links:
   About Me: "about_me"
   Courses: 
-     - Bachelor's: 
-     - Master's & Ph.D.:
-     - Machine Learning:
+     - Bachelor's: "bachelors_courses"
+     - Master's & Ph.D.: "masters_phd_courses"
+     - Machine Learning: "machine_learning_courses"
   Projects:
      - Master's & Ph.D.:
      - Machine Learning: 
