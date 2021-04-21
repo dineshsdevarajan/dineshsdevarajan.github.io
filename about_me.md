@@ -28,5 +28,5 @@ During my Ph.D., my research was focused on the development of explicit solvent 
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-If you would like to connect, please connect with me on <a target="_blank" href="https://www.linkedin.com/in/dineshdeva1157/">LinkedIn</a> or drop an email <a target="_blank" href="mailto:d.sundaravadiveludevarajan@ttu.edu">here</a>.
+If you would like to contact, please connect with me on <a target="_blank" href="https://www.linkedin.com/in/dineshdeva1157/">LinkedIn</a> or drop an email <a target="_blank" href="mailto:d.sundaravadiveludevarajan@ttu.edu">here</a>.
 </p>
