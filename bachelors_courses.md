@@ -3,7 +3,7 @@ layout: page
 title: Bachelor's
 subtitle: Courses
 ---
-Important courses taken during undergraduation are as follows:
+Important courses taken during the undergraduate studies are as follows:
 
 * Computational Chemical Engineering
 * Process Modeling and Simulation
