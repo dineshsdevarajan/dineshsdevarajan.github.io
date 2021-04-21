@@ -24,10 +24,10 @@ navbar-links:
   Courses: 
      - Bachelor's: "bachelors_courses"
      - Master's & Ph.D.: "masters_phd_courses"
-     - Machine Learning: "machine_learning_courses"
+     - Data Science: "data_science_courses"
   Projects:
      - Master's & Ph.D.:
-     - Machine Learning: 
+     - Data Science: 
      - Lecturer:
   Contributions: "contributions"
   Blog: "index.html"
