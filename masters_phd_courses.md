@@ -3,7 +3,7 @@ layout: page
 title: Master's & Ph.D.
 subtitle: Courses
 ---
-Courses taken during graduate studies are as follows:
+Courses taken during the graduate studies are as follows:
 
 * Molecular Simulations
 * Fluid Transport Principles and Analysis
