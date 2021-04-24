@@ -5,8 +5,8 @@ subtitle: Courses
 ---
 Important courses taken during the undergraduate studies are as follows:
 
-* Computational Chemical Engineering
-* Process Modeling and Simulation
+* Computational Chemical Engineering  
+* Process Modeling and Simulation  
 * Mathematics I, II, and III
 * Statistics and Linear Programming
 * Numerical Methods
